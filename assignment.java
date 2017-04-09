@@ -1,6 +1,8 @@
 
 import java.util.Enumeration;
 
+
+
 public class Refactoring {
 	private MyCollection orders = new MyCollection();
 	private String name = "Customer name";
